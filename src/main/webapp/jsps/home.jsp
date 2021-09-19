@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Landmark Technologies where DevOps Engineers get the best training to further IT careers</h1>
+<h1 align="center">Welcome Landmark Technologies where DevOps Engineers get the best training in cloud engineering</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers.
 	DevOps is a very comprehensive branch of IT.
