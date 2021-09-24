@@ -13,7 +13,7 @@ stage('1-CloningCode') {
 		sh "${mavenHome}/bin/mvn deploy"
 }
 	stage('5-DeployTomcat') {
-		deploy adapters: [tomcat9(credentialsId: 'tomcat1', path: '', url: 'http://3.14.7.4:8080/')], contextPath: null, war: 'target/*.war'
+		deploy adapters: [tomcat9(credentialsId: 'tomcat1', path: '', url: 'http://172.31.21.28:8080/')], contextPath: null, war: 'target/*war'
 }
 	stage('6-EmailNotification') {
 		emailext body: '''Hi Everyone , 
