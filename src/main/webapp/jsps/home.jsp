@@ -9,17 +9,17 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Landmark Technologies where DevOps Engineers get the best training to succeed in IT</h1>
+<h1 align="center">Welcome Landmark Technologies where DevOps and software Engineers get the best training to succeed in IT</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers.
 	DevOps is a very comprehensive branch of IT.
-	Jenkins is a very good resouce for DevOps Engineering.
-	We offer interview preparations and job assitance.
+	Jenkins is a very good resouce for DevOps and software Engineering.
+	We offer interview preparations sessions and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/log4.png" alt="" width="100">
+		<img src="images/mylandmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
 		Landmark Technology, 
